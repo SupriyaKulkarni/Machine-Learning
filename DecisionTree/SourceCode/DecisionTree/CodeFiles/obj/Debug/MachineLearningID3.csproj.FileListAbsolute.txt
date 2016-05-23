@@ -1,0 +1,27 @@
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\MachineLearningID3.csprojResolveAssemblyReference.cache
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+F:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+F:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+F:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Desktop\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Supriya\Desktop\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Desktop\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\MachineLearningID3.csprojResolveAssemblyReference.cache
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\DecisionTree\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\DecisionTree\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Spring2015\Machine_Learning\MLHW1(sgk140430)\SourceCode\DecisionTree\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Desktop\WayFair\DecisionTree\SourceCode\DecisionTree\CodeFiles\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Supriya\Desktop\WayFair\DecisionTree\SourceCode\DecisionTree\CodeFiles\obj\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Desktop\WayFair\DecisionTree\SourceCode\DecisionTree\CodeFiles\obj\Debug\ConsoleApplication5.pdb
